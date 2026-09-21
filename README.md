@@ -1,5 +1,5 @@
 <h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-I am Nakshatra Kanchan 😃. I am from Ghaziabad, U.P. and currently doing my B.Tech from Indian Intsitute of Technology, Patna 🏫. I love to explore and learn about new things.
+I am Nakshatra Kanchan. I love to explore and learn about new things.
 <p> </p>
 
 <p align="center">
